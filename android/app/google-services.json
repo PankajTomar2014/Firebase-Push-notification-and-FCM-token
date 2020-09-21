@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "557279763291",
+    "firebase_url": "https://webmobril-73209.firebaseio.com",
+    "project_id": "webmobril-73209",
+    "storage_bucket": "webmobril-73209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557279763291:android:af3ec81e248bfdfb6b587e",
+        "android_client_info": {
+          "package_name": "com.webmobril"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557279763291-0r5tf5vfltjt7q5ct34otvd3bbjgnhk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCQ12febk91gr42ZFOQEuIuw1EUYMowjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557279763291-0r5tf5vfltjt7q5ct34otvd3bbjgnhk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
